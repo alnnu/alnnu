@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Olá👋, me chamo Luann Felipe, mas pode me chamar apenas de Alnnu. Estou me  formando no curso de ciência da computação no IFG Anápolis</p>
+<p align="left">Olá👋, me chamo Luann Felipe, mas pode me chamar apenas de Alnnu. Sou formando no curso de ciência da computação no IFG Anápolis</p>
 
 ###
 
